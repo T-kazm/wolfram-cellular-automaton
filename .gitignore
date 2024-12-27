@@ -6,7 +6,3 @@ build
 
 # Ignore VSCode settings directory
 .vscode
-
-# Ignore git-cofigs
-.gitignore
-.gitattributes
