@@ -1,6 +1,7 @@
 # Overview
 
 The application simulates a one-dimensional cellular automaton with customizable rules, speed adjustment, and simulation control buttons.
+![cellularAutomaton_image](image/cellularAutomaton_ss.png)
 
 ## Features
 
